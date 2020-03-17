@@ -56,11 +56,11 @@
 3. Tambahkan column filter untuk menghapus row COW pada COW IS NULL <br> 
 Gambar : 
 <img src="/1_DB/Dokumentasi/modelling.jpg"><br>
-4. Hasil dari tabel COW IS NOT NULL dan COW IS NULL
+4. Hasil dari tabel COW IS NOT NULL dan COW IS NULL<br>
 <img src="/1_DB/Dokumentasi/cowisntnull.jpg"><br>
 <img src="/1_DB/Dokumentasi/cowisnull.jpg"><br>
 
-5. Hasil dari Decision Tree Predictor 
+5. Hasil dari Decision Tree Predictor <br>
 <img src="/1_DB/Dokumentasi/dtree.jpg"><br>
 
 <h1> Writing To DB </h1>
@@ -70,7 +70,8 @@ Skema :
 <img src="/1_DB/Dokumentasi/ori.jpg"><br>
 2. Simpan model dengan time stamp
 <img src="/1_DB/Dokumentasi/time.jpg"><br>
-3. Update database dengan DB Update
+3. Update database dengan DB Update lalu dilakukan filtering
 <img src="/1_DB/Dokumentasi/dbup2.jpg"><br>
-
+4. Hasil dari DB Update setelah difilter
+<img src="/1_DB/Dokumentasi/result7.jpg"><br>
 
