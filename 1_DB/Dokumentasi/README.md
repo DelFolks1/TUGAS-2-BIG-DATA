@@ -50,3 +50,10 @@
 13. Gunakan DB Reader untuk membaca hasil table
 <img src="/1_DB/Dokumentasi/result6.jpg"><br>
 
+<h1> Modelling </h1>
+1. Untuk data preparation hampir mirip dengan In DB Processing sampai ke percabangan row filter(cow is null dan cow is not null). <br>
+2. Convert Number to String untuk cow IS NOT NULL <br>
+3. Tambahkan column filter untuk menghapus row COW pada COW IS NULL <br> 
+Gambar : 
+<img src="/1_DB/Dokumentasi/modelling.jpg"><br>
+4. 
