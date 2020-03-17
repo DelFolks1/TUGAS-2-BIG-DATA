@@ -64,6 +64,13 @@ Gambar :
 <img src="/1_DB/Dokumentasi/dtree.jpg"><br>
 
 <h1> Writing To DB </h1>
+Skema :
+<img src="/1_DB/Dokumentasi/skema.jpg"><br>
+1. Simpan file awal sebelum diproses 
+<img src="/1_DB/Dokumentasi/ori.jpg"><br>
+2. Simpan model dengan time stamp
+<img src="/1_DB/Dokumentasi/time.jpg"><br>
+3. Update database dengan DB Update
+<img src="/1_DB/Dokumentasi/dbup2.jpg"><br>
 
-<h1> Modelling </h1>
 
