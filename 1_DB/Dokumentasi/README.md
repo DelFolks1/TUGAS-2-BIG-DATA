@@ -45,3 +45,8 @@
 <img src="/1_DB/Dokumentasi/groupby.jpg"><br>
 11. Gunakan DB Reader untuk membaca hasil table
 <img src="/1_DB/Dokumentasi/result5.jpg"><br>
+12. Sorting Umur scr descending dan ambil 10 besar (gunakan limit 10 pada sql statement)
+<img src="/1_DB/Dokumentasi/sort.jpg"><br>
+13. Gunakan DB Reader untuk membaca hasil table
+<img src="/1_DB/Dokumentasi/result6.jpg"><br>
+
