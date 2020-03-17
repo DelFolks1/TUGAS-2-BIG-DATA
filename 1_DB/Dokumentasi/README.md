@@ -57,6 +57,13 @@
 Gambar : 
 <img src="/1_DB/Dokumentasi/modelling.jpg"><br>
 4. Hasil dari tabel COW IS NOT NULL dan COW IS NULL
-<img src="/1_DB/Dokumentasi/cowisnotnull.jpg"><br>
+<img src="/1_DB/Dokumentasi/cowisntnull.jpg"><br>
 <img src="/1_DB/Dokumentasi/cowisnull.jpg"><br>
+
+5. Hasil dari Decision Tree Predictor 
+<img src="/1_DB/Dokumentasi/dtree.jpg"><br>
+
+<h1> Writing To DB </h1>
+
+<h1> Modelling </h1>
 
