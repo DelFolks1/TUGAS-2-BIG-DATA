@@ -56,4 +56,7 @@
 3. Tambahkan column filter untuk menghapus row COW pada COW IS NULL <br> 
 Gambar : 
 <img src="/1_DB/Dokumentasi/modelling.jpg"><br>
-4. 
+4. Hasil dari tabel COW IS NOT NULL dan COW IS NULL
+<img src="/1_DB/Dokumentasi/cowisnotnull.jpg"><br>
+<img src="/1_DB/Dokumentasi/cowisnull.jpg"><br>
+
