@@ -37,3 +37,11 @@
 <img src="/1_DB/Dokumentasi/filter1.jpg"><br>
 7. Gunakan DB Reader untuk membaca hasil table
 <img src="/1_DB/Dokumentasi/result3.jpg"><br>
+8. Tambahkan Row Filter pada tabel dengan filter COW yang NULL
+<img src="/1_DB/Dokumentasi/filter2.jpg"><br>
+9. Gunakan DB Reader untuk membaca hasil table
+<img src="/1_DB/Dokumentasi/result4.jpg"><br>
+10. Tambahkan Node GroupBy dan kelompokkan berdasarkan jenis kelamin(sex) 
+<img src="/1_DB/Dokumentasi/groupby.jpg"><br>
+11. Gunakan DB Reader untuk membaca hasil table
+<img src="/1_DB/Dokumentasi/result5.jpg"><br>
